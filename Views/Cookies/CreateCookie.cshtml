@@ -1,0 +1,19 @@
+﻿@model Lr5.Net.Models.CookieData
+
+<h2>Create Cookie</h2>
+
+<form asp-action="CreateCookie" method="post">
+    <div>
+        <label for="value">Value:</label>
+        <input type="text" id="value" name="Value" />
+    </div>
+
+    <div>
+        <label for="expirationDate">Expiration Date and Time:</label>
+        <input type="datetime-local" id="expirationDate" name="ExpirationDate" />
+    </div>
+
+    <div>
+        <button type="submit">Save to Cookies</button>
+    </div>
+</form>

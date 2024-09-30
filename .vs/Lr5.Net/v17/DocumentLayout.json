@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\views\\cookies\\createcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:views\\cookies\\createcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\views\\cookies\\checkcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:views\\cookies\\checkcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\services\\cookieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:services\\cookieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\models\\cookiedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:models\\cookiedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\middleware\\exceptionloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:middleware\\exceptionloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\logs\\errors.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:logs\\errors.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\controllers\\cookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:controllers\\cookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|c:\\users\\maksk\\source\\repos\\lr5.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4AA8AD6-FD15-4132-88A3-95FBFD7E27A2}|Lr5.Net.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T10:02:18.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T10:02:17.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CookieData.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Models\\CookieData.cs",
+              "RelativeDocumentMoniker": "Models\\CookieData.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Models\\CookieData.cs",
+              "RelativeToolTip": "Models\\CookieData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:08:48.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:09:35.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CookieService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Services\\CookieService.cs",
+              "RelativeDocumentMoniker": "Services\\CookieService.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Services\\CookieService.cs",
+              "RelativeToolTip": "Services\\CookieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:07:54.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Services\\LoggingService.cs",
+              "RelativeDocumentMoniker": "Services\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Services\\LoggingService.cs",
+              "RelativeToolTip": "Services\\LoggingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:15:49.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckCookie.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\Cookies\\CheckCookie.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cookies\\CheckCookie.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\Cookies\\CheckCookie.cshtml",
+              "RelativeToolTip": "Views\\Cookies\\CheckCookie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T14:13:47.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:27:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCookie.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\Cookies\\CreateCookie.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cookies\\CreateCookie.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\Cookies\\CreateCookie.cshtml",
+              "RelativeToolTip": "Views\\Cookies\\CreateCookie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T14:12:43.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T14:11:10.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T14:12:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Middleware\\ExceptionLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Middleware\\ExceptionLoggingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:11:58.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "errors.txt",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\logs\\errors.txt",
+              "RelativeDocumentMoniker": "logs\\errors.txt",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\logs\\errors.txt",
+              "RelativeToolTip": "logs\\errors.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-30T09:56:49.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:09:36.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CookiesController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Controllers\\CookiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CookiesController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\Controllers\\CookiesController.cs",
+              "RelativeToolTip": "Controllers\\CookiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:09:13.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr5.Net\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T09:39:12.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

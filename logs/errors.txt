@@ -1,0 +1,2 @@
+[30.09.2024 12:56:45] Exception: This is a test exception. 
+[30.09.2024 12:58:10] Exception: This is a test exception. 
